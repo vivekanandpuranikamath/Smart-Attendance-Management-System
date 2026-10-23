@@ -55,15 +55,19 @@ changes are reflected across the relevant dashboards.
 
 ### 📱QR-Based Attendance
 Administrator QR Code
+
 ![QR Attendance](screenshots/ADMIN001.png)
 
 Employee QR Code — Day Shift
+
 ![QR Attendance](screenshots/EMP001.png)
 
 Employee QR Code — Night Shift
+
 ![QR Attendance](screenshots/EMP002.png)
 
 Manager QR Code
+
 ![QR Attendance](screenshots/MGR001.png)
 
 
