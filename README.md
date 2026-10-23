@@ -228,14 +228,16 @@ From the project root, run:
 mvn spring-boot:run
 ```
 
-Open the application in your browser:
+Once the application starts successfully, open your browser and visit:
 
 **http://localhost:8080/smart-attendance/**
 
 ## Login credentials
 
 ADMIN001 - Admin001@123
+
 MGR001 - Manager@123
+
 EMP001 - Employee@123
 
 ## 🖥️ Deploy to External Apache Tomcat 10.1
